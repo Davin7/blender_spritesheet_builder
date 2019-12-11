@@ -9,7 +9,7 @@ Command line syntax:
 
 ANG : number of angles of the model to produce in the spritesheet
 
-CAP : number of frames in the animation
+CAP : number of frames to put into the spritesheet
 
 RADIUS : radius of the model in the blend file
 
