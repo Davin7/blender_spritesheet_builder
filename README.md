@@ -5,7 +5,7 @@ Requires the PIL library to run
 
 Command line syntax:
 
-#####blender -b -P sheetbuild.py -- `[ANG] [CAP] [RADIUS] [MODEL.BLEND]`
+##### blender -b -P sheetbuild.py -- `[ANG] [CAP] [RADIUS] [MODEL.BLEND]`
 
 ANG : number of angles of the model to produce in the spritesheet
 
