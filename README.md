@@ -13,7 +13,7 @@ CAP : number of frames in the animation
 
 RADIUS : radius of the model in the blend file
 
-MODEL.BLEND : name of the blend file where the name MODEL is the same as the name of the mesh of the desired object to be captured
+MODEL.BLEND : name of the blend file where the name MODEL is the name of the mesh of the object to be captured
 
 (resized) examples:
 
