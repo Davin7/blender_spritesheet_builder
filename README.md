@@ -13,7 +13,7 @@ CAP : number of frames to put into the spritesheet
 
 RADIUS : radius of the model in the blend file
 
-MODEL.BLEND : name of the blend file where the name MODEL is the name of the mesh of the object to be captured
+MODEL.BLEND : name of the blend file where the name MODEL is the name of the mesh of the object to be captured, e.g "Spider.blend" for a mesh named "Spider"
 
 ### (resized) examples:
 
