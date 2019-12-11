@@ -15,7 +15,7 @@ RADIUS : radius of the model in the blend file
 
 MODEL.BLEND : name of the blend file where the name MODEL is the name of the mesh of the object to be captured
 
-(resized) examples:
+### (resized) examples:
 
 ![](images/normal_spritesheet_Spider_resize.png)
 ![](images/render_spritesheet_Spider_resize.png)
