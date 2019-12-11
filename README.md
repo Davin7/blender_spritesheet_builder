@@ -1,7 +1,7 @@
 # blender_spritesheet_builder
 headless Blender spritesheet builder utility for normal maps and renders for gamedev
 
-Requires the PIL library to run
+##### Requires the PIL library, installed into Blender's bundled Python 
 
 Command line syntax:
 
