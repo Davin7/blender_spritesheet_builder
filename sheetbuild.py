@@ -32,7 +32,7 @@ def main():
 		argv = argv[argv.index("--") + 1:]
 
 	usage_text = (
-		"Usage: blender -b -P sheetbuilder.py -- [ANGLES] [FRAMES] [RADIUS] [MODEL.BLEND]"
+		"Usage: blender -b -P sheetbuilder.py -- [ANGLES] [FRAMES] [RADIUS] [MESH.BLEND]"
 	)	
 		
 	#initiate load handler	
