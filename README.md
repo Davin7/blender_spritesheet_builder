@@ -5,15 +5,15 @@ headless Blender spritesheet builder utility for normal maps and renders for gam
 
 Command line syntax:
 
-##### blender -b -P sheetbuild.py -- `[ANG] [CAP] [RADIUS] [MODEL.BLEND]`
+##### blender -b -P sheetbuild.py -- `[ANG] [CAP] [RADIUS] [MESH.BLEND]`
 
 ANG : number of angles of the model to capture in the spritesheet
 
 CAP : number of frames to capture in the spritesheet
 
-RADIUS : radius of the model in the blend file
+RADIUS : radius of the mesh in the blend file
 
-MODEL.BLEND : name of the blend file where MODEL is the name of the mesh of the object to capture, e.g "Spider.blend" for a mesh named "Spider"
+MESH.BLEND : name of the blend file where MESH is the name of the mesh of the object to capture, e.g "Spider.blend" for a mesh named "Spider"
 
 ### (resized) examples:
 
