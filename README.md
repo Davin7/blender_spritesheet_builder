@@ -7,13 +7,13 @@ Command line syntax:
 
 ##### blender -b -P sheetbuild.py -- `[ANG] [CAP] [RADIUS] [MODEL.BLEND]`
 
-ANG : number of angles of the model to produce in the spritesheet
+ANG : number of angles of the model to capture in the spritesheet
 
-CAP : number of frames to put into the spritesheet
+CAP : number of frames to capture in the spritesheet
 
 RADIUS : radius of the model in the blend file
 
-MODEL.BLEND : name of the blend file where the name MODEL is the name of the mesh of the object to be captured, e.g "Spider.blend" for a mesh named "Spider"
+MODEL.BLEND : name of the blend file where MODEL is the name of the mesh of the object to capture, e.g "Spider.blend" for a mesh named "Spider"
 
 ### (resized) examples:
 
