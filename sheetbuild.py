@@ -1,6 +1,6 @@
 #Davin Jimeno
 #Blender v2.81.16
-#Blender 3D to spritesheet/normals headless util
+#Blender 3D to spritesheet/normals headless utility
 
 bl_info = {
     "name": "3D_2_Spritesheet",
